@@ -1,0 +1,21 @@
+2022-02-24 15:46:51.921481 - Server is starting
+2022-02-24 15:46:55.854491 - Changed status todo id 32: "False" to "True"
+2022-02-24 15:46:56.097983 - Changed status todo id 32: "True" to "False"
+2022-02-24 15:46:56.515213 - Changed status todo id 37: "True" to "False"
+2022-02-24 15:46:56.749377 - Changed status todo id 37: "False" to "True"
+2022-02-24 15:46:57.135853 - Removed todo id 32: "Wow"
+2022-02-24 15:46:57.914681 - Changed status todo id 37: "True" to "False"
+2022-02-24 15:46:58.215270 - Changed status todo id 37: "False" to "True"
+2022-02-24 15:47:04.237038 - Changed todo id 37: "" to "Water the plants"
+2022-02-24 15:47:05.833453 - Changed status todo id 37: "True" to "False"
+2022-02-24 15:51:30.227360 - Added subtask of task 37: pindakaas
+2022-02-24 15:51:42.201853 - Added subtask of task 37: pindakaas
+2022-02-24 15:51:43.110870 - Added subtask of task 37: pindakaas
+2022-02-24 16:02:35.078794 - Added subtask of task 37: pindakaas
+2022-02-24 16:05:24.465450 - Added subtask of task 37: pindakaas
+2022-02-24 16:07:14.666061 - Added subtask of task 37: pindakaas
+2022-02-24 16:07:15.445069 - Added subtask of task 37: pindakaas
+2022-02-24 16:07:58.381274 - Added subtask of task 37: pindakaas
+2022-02-24 16:08:52.797121 - Added subtask of task 37: Woowie
+2022-02-24 16:10:08.467652 - Added subtask of task 37: 
+2022-02-24 16:10:49.324377 - Added subtask of task 37: Something

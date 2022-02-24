@@ -1,0 +1,19 @@
+2022-02-24 16:24:38.854980 - Server is starting
+2022-02-24 16:24:42.310006 - Removed todo id 37: "Water the plants"
+2022-02-24 16:24:53.186007 - Added todo: Some task 
+2022-02-24 16:24:59.327117 - Added subtask of task 40: This is some subtask
+2022-02-24 16:27:10.528539 - Changed todo id 40: "Some task " to "Wow something else"
+2022-02-24 16:27:17.286590 - Added subtask of task 40: Another thing to do
+2022-02-24 16:27:20.117330 - Changed status todo id 40: "False" to "True"
+2022-02-24 16:27:20.475695 - Changed status todo id 40: "True" to "False"
+2022-02-24 16:27:22.511829 - Changed status todo id 40: "False" to "True"
+2022-02-24 16:27:22.843098 - Changed status todo id 40: "True" to "False"
+2022-02-24 16:27:27.061928 - Added subtask of task 40: Cool stuff 
+2022-02-24 16:29:21.299466 - Added todo: Todo number two
+2022-02-24 16:29:26.213086 - Added todo: Todo number three
+2022-02-24 16:35:57.639623 - Added todo: Todo numer 4
+2022-02-24 16:36:14.660301 - Added subtask of task 43: Een subtask
+2022-02-24 16:36:20.920380 - Changed todo id 43: "Todo numer 4" to "Todo nummer 5"
+2022-02-24 16:38:06.494144 - Changed status todo id 40: "False" to "True"
+2022-02-24 16:38:15.177487 - Changed status todo id 42: "False" to "True"
+2022-02-24 16:38:20.998200 - Removed todo id 40: "Wow something else"
